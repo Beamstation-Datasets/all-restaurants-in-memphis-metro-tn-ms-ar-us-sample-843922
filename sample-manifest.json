@@ -1,12 +1,12 @@
 {
-  "export_job_id": "afba0d48-3e60-4f5b-8ed8-8b83dad85747",
+  "export_job_id": "c92f7727-c1ee-4490-b8a1-714b9f0b003a",
   "id_short": 843922,
-  "published_at": "2026-04-18T19:57:12Z",
+  "published_at": "2026-04-22T19:03:34Z",
   "repo_name": "all-restaurants-in-memphis-metro-tn-ms-ar-us-sample-843922",
   "sample_asset_name": "beamstation_843922_restaurants-us-memphistnmsar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/843922/beamstation_843922_restaurants-us-memphistnmsar_SAMPLE_DIST.csv",
-  "sample_records": 316,
-  "sample_sha256": "6b5fd81076a34bfe06309f0a02259604671d138ec83cd2f2b7f2afcd30610414",
-  "sample_size_bytes": 1180275,
-  "total_records": 3166
+  "sample_records": 257,
+  "sample_sha256": "406cebbb7fa3ef78a66e7444c261b07be5677d82ae49c5eeb6e43cad6a72af28",
+  "sample_size_bytes": 981041,
+  "total_records": 2577
 }
